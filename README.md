@@ -7,8 +7,8 @@ Onboarding materials for new joiners in PEVIITOR.ro project
 3. Meet the team  
 4. Why ?  
 5. What ?  
-   5.1 What is a Search Engine ?  
-   5.2 How internet works ?  
+  - [ ] 5.1 What is a Search Engine ?  
+  - [ ] 5.2 How internet works ?  
    5.3 What is a Scraper ?  
    5.4 How we build our scrapers ?  
    5.5 Technologies  
