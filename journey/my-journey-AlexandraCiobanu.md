@@ -1,4 +1,4 @@
-create GitHUB account
+create GitHUB account  
 added experience to Linkedin profile  
 Overview - Understand the project  
 What ?  
