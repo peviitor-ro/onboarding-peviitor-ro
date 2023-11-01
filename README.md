@@ -1,8 +1,13 @@
 # Welcome to PEVIITOR.ro project
 Onboarding materials for new joiners in PEVIITOR.ro project
-
+  
+---
+  
 # Misiunea noastră este de a agrega informația despre locurile de muncă și de a face această informație accesibilă universal   
 
+---
+  
+  
 ## Contributors
 
 <a href="https://github.com/sebiboga/humans-txt/graphs/contributors">
