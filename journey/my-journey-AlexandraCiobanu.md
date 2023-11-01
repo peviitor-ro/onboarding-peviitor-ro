@@ -8,3 +8,4 @@ What ?
 [ ]5.4 How we build our scrapers ?  
 [ ]5.5 Technologies  
 [ ]5.6 GitHUB  
+Involving as Scrum Master  
