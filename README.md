@@ -16,6 +16,7 @@ or you can ask us on Discord https://discord.gg/t2aEdmR52a
 ## ONBOARDING is mandatory for all people engaged in the project
 This is the proof you are involved in the project.  
 
+# Misiunea noastră este de a agrega informația despre locurile de muncă și de a face această informație accesibilă universal 
 
 ## Objectives
 1. Overview - Understand the project  
