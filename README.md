@@ -16,26 +16,26 @@ Onboarding materials for new joiners in PEVIITOR.ro project
 5. What ?  
   - [ ] 5.1 What is a Search Engine ?  
   - [ ] 5.2 How internet works ?  
-   5.3 What is a Scraper ?  
-   5.4 How we build our scrapers ?  
-   5.5 Technologies  
-   5.6 GitHUB  
-   5.7 Visual Studio Code  
-   5.8 Intelli J  
-   5.9 Apache SOLR  
-   5.10 Apache JMeter  
-   5.11 Testing  
-   5.12 What we test?  
-   5.13 How we test ?  
-   5.14 What is Open Source  
+  - [ ] 5.3 What is a Scraper ?  
+  - [ ]5.4 How we build our scrapers ?  
+  - [ ]5.5 Technologies  
+  - [ ]5.6 GitHUB  
+  - [ ] 5.7 Visual Studio Code  
+  - [ ]  5.8 Intelli J  
+  - [ ] 5.9 Apache SOLR  
+  - [ ] 5.10 Apache JMeter  
+  - [ ] 5.11 Testing  
+  - [ ] 5.12 What we test?  
+  - [ ] 5.13 How we test ?  
+  - [ ] 5.14 What is Open Source  
 7. How ?  
 8. Get involved  
-   8.1 Involving as Scrum Master  
-   8.2 Involving as Project Manager  
-   8.3 Involving as Product Owner  
-   8.4 Involving as Tester  
-   8.5 Involving as Scraper Developer  
-   8.6 Involving as Automation Tester / Developer in Test  
+   - [ ] 8.1 Involving as Scrum Master  
+   - [ ] 8.2 Involving as Project Manager  
+   - [ ] 8.3 Involving as Product Owner  
+   - [ ] 8.4 Involving as Tester  
+   - [ ] 8.5 Involving as Scraper Developer  
+   - [ ] 8.6 Involving as Automation Tester / Developer in Test  
 9. What's in it for you ?  
    9.1 LinkedIN profile update  
    9.2 Portfolio  
