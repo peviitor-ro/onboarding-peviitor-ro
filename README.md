@@ -7,6 +7,15 @@ Onboarding materials for new joiners in PEVIITOR.ro project
  <img src="https://contrib.rocks/image?repo=peviitor-ro/onboarding-peviitor-ro" />
 </a>
 
+## STEPS
+open **tasks** folder  
+read each task and try to do what is written there  
+if you have any questions you can use Discussions: https://github.com/peviitor-ro/onboarding-peviitor-ro/discussions/categories/q-a  
+or you can ask us on Discord https://discord.gg/t2aEdmR52a  
+
+## ONBOARDING is mandatory for all people engaged in the project
+This is the proof you are involved in the project.  
+
 
 ## Objectives
 1. Overview - Understand the project  
