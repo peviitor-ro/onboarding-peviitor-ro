@@ -1,6 +1,8 @@
 # Welcome to PEVIITOR.ro project
 Onboarding materials for new joiners in PEVIITOR.ro project
 
+# Misiunea noastră este de a agrega informația despre locurile de muncă și de a face această informație accesibilă universal   
+
 ## Contributors
 
 <a href="https://github.com/sebiboga/humans-txt/graphs/contributors">
@@ -14,10 +16,13 @@ if you have any questions you can use Discussions: https://github.com/peviitor-r
 or you can ask us on Discord https://discord.gg/t2aEdmR52a  
 
 ## ONBOARDING is mandatory for all people engaged in the project
-This is the proof you are involved in the project.  
-<div style="color: white; background-color: black;">
-# Misiunea noastră este de a agrega informația despre locurile de muncă și de a face această informație accesibilă universal 
-</div>
+This is the proof you are involved in the project.   
+
+
+
+
+
+
 ## Objectives
 1. Overview - Understand the project  
 2. Understand the Architecture  
