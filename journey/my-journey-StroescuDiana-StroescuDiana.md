@@ -1,5 +1,6 @@
-Intelli J
-Apache JMeter
-Testing
-Involving as Tester
-Involving as Automation Tester
+- Intelli J
+- Apache JMeter
+- Testing
+- Involving as Tester
+- Involving as Automation Tester
+- Learning german :)
