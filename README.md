@@ -1,6 +1,13 @@
 # Welcome to PEVIITOR.ro project
 Onboarding materials for new joiners in PEVIITOR.ro project
 
+## Contributors
+
+<a href="https://github.com/sebiboga/humans-txt/graphs/contributors">
+ <img src="https://contrib.rocks/image?repo=peviitor-ro/onboarding-peviitor-ro" />
+</a>
+
+
 ## Objectives
 1. Overview - Understand the project  
 2. Understand the Architecture  
@@ -40,8 +47,3 @@ Onboarding materials for new joiners in PEVIITOR.ro project
    9.8 Develop a business above this Open Source project
    9.9 learning teamwork and being a team-player
 
-## Contributors
-
-<a href="https://github.com/sebiboga/humans-txt/graphs/contributors">
- <img src="https://contrib.rocks/image?repo=peviitor-ro/onboarding-peviitor-ro" />
-</a>
