@@ -1,11 +1,10 @@
  
  
 ### My Objectives
-##### 1.Overview - Understand the project
-##### 2.Understand the Architecture
-##### 3.Meet the team
-##### 4.Why ?
-###### Beacause i want to learn and develop new skills.
+#####  Overview - Understand the project
+#####  Understand the Architecture
+#####  Meet the team
+ 
 ### I want to learn:
 - What is a Scraper ?
 - How we build our scrapers ?
@@ -17,7 +16,6 @@
 
 ##### Get involved
 
-###### - Involving as Scrum Master
 ###### - Involving as Tester
 ###### - Involving as Automation Tester
 #####  What's in it for you ?
