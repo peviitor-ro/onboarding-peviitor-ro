@@ -19,8 +19,7 @@ Here, I will enumerate and detail my contributions and achievements in the speci
   - [based_scraper_java](https://github.com/peviitor-ro/based_scraper_java): A Java-based web scraper designed to collect job data.
   - [Test-Automation-For-Scrapers](https://github.com/peviitor-ro/Test-Automation-For-Scrapers#test-automation-for-scrapers): A test automation framework for the scrapers written in Java, but not working anymore due to the website's changes.
   - [scraper_Api](https://github.com/peviitor-ro/scraper_Api): A REST API for the scrapers written in Python to allow users to run scrapers on-demand, collect data, and store it in a database to see progress of the job for each company and much more.
-  - Created a library named [peviitor_pyscraper](link-to-peviitor-pyscraper) posted on [PyPI](https://pypi.org/project/peviitor-pyscraper/) that aids in web scraping.
-
+  - Created a library named [peviitor_pyscraper](https://github.com/lalalaurentiu/peviitor_pyscraper) posted on [PyPI](https://pypi.org/project/peviitor-pyscraper/) that aids in web scraping.
 
 - Contributed to [firme.peviitor.ro](https://github.com/peviitor-ro/firme-peviitor): Made the [website](https://firme.peviitor.ro) responsive and added a new feature that allows users to search for companies by their name.
 
@@ -28,7 +27,11 @@ Here, I will enumerate and detail my contributions and achievements in the speci
 
 - Contributed to [peviitor_jsscraper](https://github.com/peviitor-ro/peviitor_jsscraper): A JavaScript-based library that aids in web scraping posted on [npm](https://socket.dev/npm/package/peviitor_jsscraper).
 
+- Contributed to [scrapers.js](https://github.com/peviitor-ro/scrapers.js) A JavaScript clone of the [based_scraper_js](https://github.com/peviitor-ro/based_scraper_js) library.
+
 - Helped with the [software architecture](https://scrapers.peviitor.ro/diagram/diagram) of the project.
+
+- And many more...
 
 ## Languages Used
 
