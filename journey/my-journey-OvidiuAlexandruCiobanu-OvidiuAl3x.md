@@ -15,7 +15,7 @@ Here, I will enumerate and detail my contributions and achievements in the speci
 
 - Contributed to [scrapers.peviitor.ro](https://github.com/peviitor-ro/Scrapers-UI): - I created and implemented a new design (responsive) and new functionalities for web scrapers  developed by my colleagues, so that testers can do manual testing more efficiently ([for example](https://scrapers.peviitor.ro/src/msgsystems/index.html)). And I created new pages where you can find out more about web scraping, the meeting schedule and [much more](https://scrapers.peviitor.ro/doc) .
                                                                           
-## Technologies Ssed
+## Technologies Used
 
 - Html
 - Css
