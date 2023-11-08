@@ -67,3 +67,4 @@ This is the proof you are involved in the project.
    9.8 Develop a business above this Open Source project
    9.9 learning teamwork and being a team-player
 
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
