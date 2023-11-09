@@ -1,11 +1,12 @@
-Am facut curs in Testare manuala -IT Factory- si sunt interesata sa-mi dezvolta abilitatile in acest sens.
-task_0: Done
-task_1: Done
-task_2: Done
-task_3: Done
-task_4: Done
-task_5: Done
-task_6: Done
-task_7: Done
-task_8: Done
-task_9: in progres
+# hello world! Eu sunt Adina. 
+**Am facut curs in Testare manuala -IT Factory- si sunt interesata sa-mi dezvolta abilitatile in acest sens**
+1. task_0: Done
+2. task_1: Done
+3. task_2: Done
+4. task_3: Done
+5. task_4: Done
+6. task_5: Done
+7. task_6: Done
+8. task_7: Done
+9. task_8: Done
+10. task_9: in progres
