@@ -1,7 +1,7 @@
 # David's OnBoarding
-eu am facut testare automata si am inteles ca voi fi in echipa cristinei anghelet.
-am facut testare in python, cu selenium si unit test, dar sunt doresc sa invat cat mai mult si sunt dispus sa face ceea ce mi se cere daca sunt invatat.
-am adaugat jobul pe linkedin pe profilul meu
+**eu am facut testare automata si am inteles ca voi fi in echipa cristinei anghelet.
+am facut testare in python, cu selenium si unit test, dar sunt doresc sa invat cat mai mult si sunt dispus sa face ceea ce mi se cere daca sunt invatat.**
+## am adaugat jobul pe linkedin pe profilul meu
 
 - Task Status:
 - [ ] task_0: done
