@@ -13,7 +13,7 @@ Buna tuturor! Ma bucur sa fiu aici impreuna cu voi petru a invata si a-mi imbuna
 - Frontend
 
 ##### What's in it for you ?
--Linkedin profile update (https://www.linkedin.com/in/elena-dascalu-8575381ba/)[https://www.linkedin.com/in/elena-dascalu-8575381ba/]
+-Linkedin profile update (https://www.linkedin.com/in/elena-dascalu-8575381ba/)
 
 - Portofoliu
 -Networking
