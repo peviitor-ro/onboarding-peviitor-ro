@@ -8,12 +8,12 @@ task_0: Done
 task_1: Done
 task_2: Done
 task_3: Done
-task_4: 
-task_5: 
-task_6: 
-task_7: 
-task_8: 
-task_9: 
+task_4: Done
+task_5: Done
+task_6: Done
+task_7: Done
+task_8: Done
+task_9: Done
 task_10: 
 task_11: 
 task_12: 
