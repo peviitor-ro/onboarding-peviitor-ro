@@ -1,5 +1,5 @@
 Hello! 
-Eu sunt Mihaela, junior front-end web developer. 
+
 Sunt entuziasmata sa ma alatur echipei si sa contribui la succesul proiectului. 
 
 **Obiective:**
@@ -8,6 +8,3 @@ Sunt entuziasmata sa ma alatur echipei si sa contribui la succesul proiectului.
 - understand the wider picture in combining HTML, CSS & JS
 - use front-end technologies and tools: React, Bootstrap, jQuery, Node.js, APIs, databases etc
 - learn React
-
-
-
