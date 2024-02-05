@@ -64,7 +64,7 @@ This is the proof you are involved in the project.
    9.5 Test your ideas  
    9.6 Innovation  
    9.7 Use of product in your personal interest  
-   9.8 Develop a business above this Open Source project
-   9.9 learning teamwork and being a team-player
+   9.8 Develop a business above this Open Source project  
+   9.9 Learning teamwork and being a team-player
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
