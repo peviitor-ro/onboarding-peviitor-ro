@@ -1,4 +1,4 @@
-Salut, tuturor! Doar ce am finalizat de cateva luni un curs de la GoIT Romania, unde am si primit certificarea pentru QA Manual Tester. La curs am invatat lucruri de baza precum tipuri de testare, procesele SDLC si STLC, diverse metodologii precum Agile si Waterfall, SQL, HTTPHTML & CSS, cazuri de testare, bug reports, testarea API. 
+Salut, tuturor! Doar ce am finalizat de cateva luni un curs de la GoIT Romania, unde am si primit certificarea pentru QA Manual Tester. La curs am invatat lucruri de baza precum tipuri de testare, procesele SDLC si STLC, diverse metodologii precum Agile si Waterfall, SQL, HTTP response status codes, Web Inspector, HTML & CSS, cazuri de testare, bug reports, testarea API. 
 
 LinkedIn - www.linkedin.com/in/gabriel-florian-marica-443bb0228
 
