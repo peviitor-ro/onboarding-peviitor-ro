@@ -6,7 +6,7 @@ My name is Traian and i'm an enthusiastic frontend developer
 
 This is the place where i'll add my work
 
-## What i know
+## What I know
 
 - HTML;
 - CSS;
