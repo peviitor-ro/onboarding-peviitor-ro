@@ -19,3 +19,7 @@
 ## What i've learned in this project
 
     - to be added...
+
+## Linkedin
+
+    - here you have a link to my Linkedin account: https://www.linkedin.com/in/traian-baciu/
