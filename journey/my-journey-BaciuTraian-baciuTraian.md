@@ -22,4 +22,4 @@
 
 ## Linkedin
 
-    - here you have a link to my Linkedin account: https://www.linkedin.com/in/traian-baciu/
+    - here you have a link to my Linkedin account: [Traian Baciu](https://www.linkedin.com/in/traian-baciu/)
