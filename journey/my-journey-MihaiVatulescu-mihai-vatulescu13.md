@@ -3,3 +3,6 @@
  I also have some experience with React library but now I do some refresh over those concepts that I forgot during the time since I didn't worked with that library.
  I want to contribute on this project to learn and help others when needed by sharing my knowledge across the team.
  I want also bring some ideas about some refactoring/updates or ideas that may simplify the project workflow.
+
+ You can find me on linkedin:
+ https://www.linkedin.com/in/mihai-vatulescu-2659291b2
