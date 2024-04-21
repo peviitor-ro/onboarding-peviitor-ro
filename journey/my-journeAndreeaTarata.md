@@ -6,3 +6,6 @@ Dupa ce am nascut mi-am dat seama ca nu mai vreau sa lucrez in management ci vre
 Asta facea el.
 Bineinteles ca am incercat sa fac orice inafara de programare - Business Analysis si testare manuala - apoi cineva mi-a arata cat de simplu e sa programezi si am facut-o.
 Imi doresc cu pasiune nebuna sa scriu cod de automation. A facut asta deocamdata doar la nivel de curs (Python si Java)
+Doresc sa ajung Automation Quality Assurance (Python) si in viitor Quality Assurance Team Lead
+Am auzit de voi in urma cu un an cautand un internship. Am intrat de atunci la voi dar nu prea am inteles nimic. M-am reintors si vad ca lucrurile sunt mai clare. Ma bucur
+Ma gandesc sa folosesc aceasta experienta pe Linkedin dupa 3 luni de codat :) - revin atunci cu linkul
