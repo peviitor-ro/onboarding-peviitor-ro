@@ -1,0 +1,1 @@
+1. [Web Scraping with Python](https://www.youtube.com/watch?v=nCuPv3tf2Hg&list=PLRzwgpycm-Fio7EyivRKOBN4D3tfQ_rpu)
