@@ -10,3 +10,8 @@ In prezent am cunostinte de Django, React, PostgreSQL, Git, Docker, Kubernetes.
 ### Ce imi doresc sa invat?
 
 Sincer orice tehnologie care o folositi. Sunt foarte interesat de testare automata si cred ca ar fii un domeniu interesant de explorat.
+
+### Linkedin link: 
+
+https://www.linkedin.com/in/ioan-criste-046685263
+
