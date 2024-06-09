@@ -13,3 +13,4 @@ Interes: Imi doresc sa invat urmatoarele: -Tot ce tine de testare; -Tehnologii f
 Implicare: Tot ce tine de Testare Manuala dar imi doresc sa invat si Testare Automata in viitor.
 
 LinkedIn Profile: https://www.linkedin.com/in/gradea-razvan-b33493269/
+
