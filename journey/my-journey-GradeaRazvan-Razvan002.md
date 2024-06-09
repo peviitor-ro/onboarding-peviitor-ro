@@ -1,9 +1,16 @@
-Buna,
+Salut!:)
 
-Ma numesc Gradea Razvan Sunt aici ca sa pun in practica ceea ce am invatat la cursul de QA Software Tester si sa capat experienta de la oameni care lucreaza deja in domeniu.
-In respectivul curs am invatat sa folosesc : Java, Selenium, IntelliJ, MySQL.
-Imi doresc ca in viitorul apropiat sa imi gasesc un job pe o pozitie de Automated Testing sau Manual Testing.
+Ma numesc Gradea Razvan, sunt incepatoare in domeniul IT, am terminat un curs de testare in cadrul Azimut Vision. Imi doresc sa pun in practica cunostintele mele teoretice prin multa practica.
 
-Am aflat de peviitor.ro de la un amic care lucreaza deja in domeniu.
+Obiective:
 
-Profilul meu de LinkedIn este : https://www.linkedin.com/in/gradea-razvan-b33493269/
+Sa inteleg cat mai bine rolul de Manual Tester;
+Lucrul in echipa;
+Sa capat incredere prin practica, sa imi formez un mod de lucru;
+Sa activez in domeniu si sa imi gasesc un job pe partea de Testare Manuala.
+Interes: Imi doresc sa invat urmatoarele: -Tot ce tine de testare; -Tehnologii folosite; -Sa folosesc GitHub; -Sa invat Testare Automata.
+
+Implicare: Tot ce tine de Testare Manuala dar imi doresc sa invat si Testare Automata in viitor.
+
+LinkedIn Profile: https://www.linkedin.com/in/gradea-razvan-b33493269/
+
