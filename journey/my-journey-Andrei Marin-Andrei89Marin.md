@@ -1,1 +1,2 @@
-
+Salutare. Sunt Andrei. Am absolvit cursul de Testare Automata Phyton al celor de la IT FACTORY. Doresc sa acumulez cat mai multa experienta alaturi de voi. Pentru moment nu am experienta in acest domeniu. Sunt o persoana ambitioasa, lucrez bine atat in echipa cat si individual, cu o capacitate mare de adaptibilitate in orice situatie.
+Profile LinkedIn : https://www.linkedin.com/in/andrei-ionut-marin-20493670/
