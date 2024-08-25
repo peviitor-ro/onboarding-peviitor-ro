@@ -5,9 +5,6 @@ Aspiring Junior Manual/Automation Tester with a solid understanding of software 
 Eager to contribute my meticulous attention to detail, analytical mindset, and passion for quality assurance in a dynamic team environment. Seeking an entry-level position where I can leverage my testing skills,
 learn from experienced professionals, and actively contribute to the success of software development projects.
 
-### My Linkedin profile
-[Your LinkedIn Profile URL]
-
 ### Tools 🔧
 - **Jira, Trello**: Project management
 - **Qase, TestRail, Trello**: Bug/Test case management
@@ -51,7 +48,6 @@ learn from experienced professionals, and actively contribute to the success of 
 - uTest
 - Test.io
 - Freelancer.testlio
-
 </div>
 
 
