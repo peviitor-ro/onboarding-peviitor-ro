@@ -1,0 +1,1 @@
+Buna! Sunt Niculina si am venit aici sa particit pe partea de Frontend daca pot si in acelasi timp sa-mi imbunatatesc skill-urile de programator. Am facut un curs de Frontend developer cu ejobs si Coder's Lab, apoi am facut parte din programul de mentorat Wellcode unde mi-am dezvoltat abilitatile de rezolvare a problemelor de algoritmica in C++.
