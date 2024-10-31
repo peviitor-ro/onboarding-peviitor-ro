@@ -7,3 +7,5 @@ Acum caut o echipa cu care sa lucrez la un proiect real, pentru a-mi dezvolta ab
 Acesta este profilul meu de LinkedIn: https://www.linkedin.com/in/anca-m-matei/. 
 
 Abia astept sa ne cunoastem la intalnirile de la ora 18:30. 
+
+PS: am instalat Github Desktop
