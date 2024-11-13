@@ -1,0 +1,1 @@
+Hello! My name is Roxi, currently I am studying Electrical Engineering. I am willing to learn new things, so I want to start with manual testing and hopefully in the future I'll have more knowledge in this field.
