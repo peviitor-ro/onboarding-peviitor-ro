@@ -1,0 +1,5 @@
+My name is Adele Paclisan, and I am a Junior QA Engineer with a deep passion for learning and adapting to new technologies. My strong attention to detail and enthusiasm for technology led me to pursue a career as a QA Engineer. In July 2024, I completed a course with a 100% score, where I gained a solid understanding of the Software Development Life Cycle (SDLC).
+
+My previous career as a hairdresser taught me to listen carefully to customer needs, and I developed strong analytical and problem-solving skills, time management, and a focus on delivering the best results for clients. These skills make me a great fit for the new role, where understanding requirements, attention to detail, and team communication are critical.
+
+I am excited about the opportunity to bring my skills, enthusiasm, and passion for quality to your team. I am ready to contribute by finding and resolving issues, ensuring customer satisfaction, and collaborating with my colleagues to deliver the best possible results. I am eager to join a team of professionals from whom I can learn the best practices and put them into action.
