@@ -1,0 +1,2 @@
+Salutare!
+Mă numesc Alex Mocanu și am ales să mă alătur Asociației Oportunități și Cariere pentru a contribui și a câștiga mai multă experiență ca tester QA, despre care am aflat prin LinkedIn. Printre trăsăturile mele cheie se numără gândirea analitică, rezolvarea problemelor, comunicarea, testarea și managementul timpului. Îmi doresc să învăț să utilizez GitHub, metodologiile API, să lucrez într-un mediu Agile și să dobândesc cunoștințe despre uneltele de automatizare.
