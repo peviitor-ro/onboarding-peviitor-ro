@@ -1,0 +1,1 @@
+Ma numesc Gabriela Paclisan si vreau sa ma alatur echipei dumneavoastra pentru a invata de la cei mai buni.Nu am absolvit nici un curs in domeniu dar sunt deschisa sa invat si sa practic alaturi de voi pentru o reconversie in cariera.
