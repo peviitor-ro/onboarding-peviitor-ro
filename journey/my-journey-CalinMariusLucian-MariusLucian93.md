@@ -3,3 +3,8 @@ cursuri si sa imi imbogatesc cunostintele referitor la domeniul in cauza, am fos
 si mi-am dat seama ca este un domeniu care incurajeaza creativitatea si inovatia. In prezent sunt absolventul unui curs privat de manual QA si mi-ar placea sa
 ma dezvolt mai mult pe aceasta ramura, urmand usor tranzitia catre QA Automation/DEV, am cunostinte despre QA iar ca si limbaje de programare concepte si sintaxe
 pentru C/C++, imi doresc sa invat cat mai multe si ma bucur sa fac parte din aceasta organizatie, astept cu nerabdare sa vad ce imi rezerva viitorul! 
+
+
+-task09
+Now that i finished watching the documentary about the google search engine, i want to say that im glad it reminded me that i was born in this era of internet, information and technology. I better understand how a search engine works and what are its powers and limitations, i am looking forward to participate in this
+project and working on one too, i am already joyful that i get to be a part of this, thank you very much for the oportunity :)
