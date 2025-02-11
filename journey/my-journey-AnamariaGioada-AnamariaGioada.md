@@ -1,8 +1,8 @@
-Buna, 
+Buna,
 
-Sunt Anamaria Gioada, Asistent medical de anestezie in curs de reconversie profesionala. 
+Sunt Anamaria Gioada, Asistent medical de anestezie in curs de reconversie profesionala.
 
-Am incheiat in Octombrie 2024 un curs de 180 de ore de introducere in programarea Front-End, la Wantsome Iasi, unde am invatat informatii despre: HTML, SCSS, JavaScript, TypeScript si React. 
+Am incheiat in Octombrie 2024 un curs de 180 de ore de introducere in programarea Front-End, la Wantsome Iasi, unde am invatat informatii despre: HTML, SCSS, JavaScript, TypeScript si React.
 La finalul acestui curs am dezvoltat o aplicatie demo, ca [proiect individual final](https://coffee-roasters-demo-app.netlify.app/).
 
 Momentan caut cat mai multe oportunitati de a lucra la un proiect cu insemnatate si cu o echipa reala, pentru a ma dezvolta in continuare.
@@ -10,3 +10,5 @@ Momentan caut cat mai multe oportunitati de a lucra la un proiect cu insemnatate
 [LinkedIn](https://www.linkedin.com/in/anamaria-gioad%C4%83-927631325/)
 
 [GitHub](https://github.com/AnamariaGioada)
+
+Am facut task-urile din onboarding: Am facut fork la onboarding, am vazut What is a search engine, am creat un issue, am updatat profilul de linkedin.
