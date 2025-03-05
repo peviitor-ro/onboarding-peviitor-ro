@@ -1,0 +1,1 @@
+Ma numesc Alessandro Saulea si sunt Full Stack Developer cu 2 ani de experienta folosind tehnologii precum Java, JavaScript, SQL, Python, Progress OpenEdge. Am ales sa fiu parte din aceasta asociatie pentru a contribui la misiunea acesteia de a usura cautarea locurilor de munca in Romania, si pentru a-mi dezvolta abilitatile personale si de programare.
